@@ -1,0 +1,7 @@
+*.npy
+*.npz
+*.pickle
+*.pkl
+*.pyc
+__pycache__/*
+model/*
