@@ -10,6 +10,8 @@ A seq2seq NLIDB model augmented with adversarial machine learning
    [OVERNIGHT](https://worksheets.codalab.org/worksheets/0x269ef752f8c344a28383240f7bb2be9c)
    
    [ParaphraseBench](https://github.com/DataManagementLab/ParaphraseBench)
+   
+   [Spider](https://yale-lily.github.io/spider)
 
 ## Build Data
    Rebuild vocabulary and dataset 
